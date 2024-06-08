@@ -1,16 +1,12 @@
-## Hi there 👋
+# ¡Hola! Soy Elmer Miguel 
+👋 Soy estudiante de Ingeniería en Ciencias y Sistemas en la Universidad San Carlos de Guatemala. Apasionado por la tecnología, la programación y siempre en busca de aprender algo nuevo cada día. 
 
-<!--
-**ElmerMiguel/ElmerMiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Habilidades - 
+**Lenguajes de Programación:** Python, Java.
+- **Desarrollo Web:** HTML, CSS
+ - **Bases de Datos:** MySQL, MariaDB
+- **Control de Versiones:** Git, GitHub 
+ - **Otros:** Linux, Windows, Virtualización 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Educación 
+- **Universidad San Carlos de Guatemala** Ingeniería en Ciencias y Sistemas 
